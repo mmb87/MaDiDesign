@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaDiDesign", "MaDiDesign\MaDiDesign.csproj", "{1294D7A6-C128-4D72-AA57-88BDA05F70DD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaDiDesign", "MaDiDesign\MaDiDesign.csproj", "{B514F14D-8E03-46C2-B981-9A2D32A67840}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1294D7A6-C128-4D72-AA57-88BDA05F70DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1294D7A6-C128-4D72-AA57-88BDA05F70DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1294D7A6-C128-4D72-AA57-88BDA05F70DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1294D7A6-C128-4D72-AA57-88BDA05F70DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B514F14D-8E03-46C2-B981-9A2D32A67840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B514F14D-8E03-46C2-B981-9A2D32A67840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B514F14D-8E03-46C2-B981-9A2D32A67840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B514F14D-8E03-46C2-B981-9A2D32A67840}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {50BCFBA6-BBFA-4B7B-9BFF-31EA5C09AC94}
+		SolutionGuid = {24E0F113-7796-4CF0-94C4-F49196267355}
 	EndGlobalSection
 EndGlobal
